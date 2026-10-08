@@ -7,5 +7,7 @@
 			"path": "../../OneDrive/Documentos/GitHub/python-cursoemvideo"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "estudo-https-python"
+	}
 }
